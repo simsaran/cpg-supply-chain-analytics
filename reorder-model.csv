@@ -1,0 +1,4 @@
+SKU ID,SKU Name,Avg Weekly Demand,Std Dev,Lead Time Weeks,Service Level,Recommended Safety Stock,Recommended Reorder Point,EOQ Units,Annual Ordering Cost CAD,Annual Holding Cost CAD
+NS-CHIP-001,NorthSnack Original Chips 200g,1850,222,2,95%,518,4218,24168,3383.4,3383.52
+NS-BAR-002,NorthSnack Granola Bar 6-pack,1240,149,3,95%,425,4145,15395,3560.12,3560.09
+NS-MIX-003,NorthSnack Trail Mix 300g,980,118,2,95%,274,2234,12846,3371.94,3372.08

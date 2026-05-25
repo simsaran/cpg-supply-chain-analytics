@@ -1,0 +1,4 @@
+SKU ID,SKU Name,Total Demand,Total Sales,Total Lost Sales,Fill Rate %,Stockout Weeks,Stockout Rate %,Total Revenue CAD,Total Lost Revenue CAD,Total Gross Profit CAD,Lead Time Weeks
+NS-CHIP-001,NorthSnack Original Chips 200g,203003,182397,20606,89.8,14,13.5,636565.53,71914.94,432280.89,2
+NS-BAR-002,NorthSnack Granola Bar 6-pack,132860,116066,16794,87.4,14,13.5,579169.34,83802.06,364447.24,3
+NS-MIX-003,NorthSnack Trail Mix 300g,106303,91679,14624,86.2,18,17.3,549157.21,87597.76,356631.31,2

@@ -1,0 +1,8 @@
+Metric,Value,Notes
+SKUs analysed,3,"Chips, Granola Bar, Trail Mix"
+Analysis period,2 years,January 2023 to December 2024
+Total lost revenue,"$243,315.0",Due to stockout events across all SKUs
+Lost revenue as % of potential,12.1%,Opportunity cost of current replenishment policy
+Highest stockout rate SKU,NS-MIX-003,Trail Mix — highest demand variability (seasonal peak in late summer)
+Safety stock model,Z-score at 95% service level,Based on demand variability and supplier lead time
+EOQ model,Economic Order Quantity,Balances ordering cost against holding cost
